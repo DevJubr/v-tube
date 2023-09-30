@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background: rgb(11, 0, 26);
+  color: rgb(235, 246, 255);
+}
+#long-button > svg {
+  fill: aliceblue;
+}
